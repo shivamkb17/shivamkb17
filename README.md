@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Shivam
+# Hi 👋, I'm Shivam Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast;Building+Scalable+and+Practical+Software;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+TypeScript+Developer;Chrome+Extensions+%7C+AI-Powered+Tools;DevOps+%7C+Self-Hosted+Infrastructure;Open+Source+Contributor" alt="Typing SVG" />
 
 <br/>
 
@@ -19,10 +19,11 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently focused on **Full-Stack Development**
-- 💡 Interested in **Web Apps, APIs, and Scalable Systems**
-- 🛠️ I enjoy writing **clean, maintainable, production-ready code**
-- 🎯 Goal: Build products that are useful, fast, and reliable
+- 🏗️ Full-stack developer specializing in **TypeScript, Node.js, and AI-integrated web apps**
+- 🧩 I build **Chrome Extensions, REST APIs, SaaS tools, and self-hosted infrastructure**
+- ☁️ Experienced with **AWS, Docker, WordPress, and open-source deployment stacks** (Chatwoot, Nextcloud, Jitsi)
+- 🤝 Active **open-source contributor** — contributed to [Chatwoot](https://github.com/chatwoot/chatwoot) (22k+ ⭐)
+- 🎯 Running [WizzyWeb](https://wizzyweb.com/) — delivering scalable web solutions for clients globally
 
 ---
 
@@ -31,16 +32,19 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,ruby,php" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vue" />
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,wordpress,github" />
 
 </div>
 
@@ -48,7 +52,14 @@
 
 ## 📌 Featured Projects
 
-- 🔹 **[biolink](https://github.com/shivamkb17/biolink)** — A personal/project link hub repository by **@shivamkb17**.
+| Project | Description | Stack |
+|---|---|---|
+| 🎙️ [**VoicePilot**](https://github.com/shivamkb17/VoicePilot) | Voice-controlled Chrome extension — browse the web entirely through speech | TypeScript, ElevenLabs, GPT-4o, Manifest V3 |
+| 🎭 [**PlotInterrupt**](https://github.com/shivamkb17/PlotInterrupt) | Voice-first interactive storytelling — interrupt the narrator and rewrite the story in real time | TypeScript, ElevenLabs, AI |
+| 🤖 [**DoubtClear**](https://github.com/shivamkb17/DoubtClear) | AI-powered Q&A and doubt-resolution tool | TypeScript |
+| 🔧 [**Chatwoot Stack**](https://github.com/shivamkb17/chatwoot-portainer-stack) | Production-ready self-hosted Chatwoot deployment via Portainer | Docker, Shell |
+| 🔒 [**Bitwarden Self-Host**](https://github.com/shivamkb17/bitwarden) | Docker-based self-hosted Bitwarden password manager setup | Docker, Shell |
+
 ---
 
 ## 📊 GitHub Analytics
@@ -56,8 +67,12 @@
 <div align="center">
 
 <img height="170" src="https://streak-stats.demolab.com?user=shivamkb17&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://repo-steel-omega.vercel.app/api/cards/repos-per-language?username=shivamkb17&theme=tokyonight" />
-<img height="170" src="https://repo-steel-omega.vercel.app/api/cards/most-commit-language?username=shivamkb17&theme=tokyonight" />
+<img height="170" src="https://repo-steel-omega.vercel.app/api?username=shivamkb17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+</div>
+
+<div align="center">
+<img height="160" src="https://repo-steel-omega.vercel.app/api/top-langs/?username=shivamkb17&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -91,6 +106,8 @@
 <a href="https://www.linkedin.com/in/ceowizzyweb/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://wizzyweb.com/" target="_blank">
+</a>
 <a href="mailto:ershivamkrcse@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -101,6 +118,6 @@
 
 <div align="center">
 
-### ✨ "Code. Learn. Build. Repeat."
+### ✨ "Ship it. Improve it. Repeat."
 
 </div>
