@@ -49,11 +49,6 @@
 ## 📌 Featured Projects
 
 - 🔹 **[biolink](https://github.com/shivamkb17/biolink)** — A personal/project link hub repository by **@shivamkb17**.
-- 🔹 **Project 2** — Add your next best project here  
-  `https://github.com/shivamkb17/project-2`
-- 🔹 **Project 3** — Add your next best project here  
-  `https://github.com/shivamkb17/project-3`
-
 ---
 
 ## 📊 GitHub Analytics
