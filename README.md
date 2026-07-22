@@ -67,13 +67,13 @@
 <div align="center">
 
 <img height="170" src="https://streak-stats.demolab.com?user=shivamkb17&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://repo-steel-omega.vercel.app/api?username=shivamkb17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://repo-steel-omega.vercel.app/api?username=shivamkb17&show_icons=true&theme=tokyonight" />
 
 </div>
 
 <div align="center">
 
-<img height="160" src="https://repo-steel-omega.vercel.app/api/top-langs/?username=shivamkb17&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://repo-steel-omega.vercel.app/api/top-langs/?username=shivamkb17&layout=compact&theme=tokyonight" />
 
 </div>
 
