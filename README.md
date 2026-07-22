@@ -72,6 +72,7 @@
 </div>
 
 <div align="center">
+
 <img height="160" src="https://repo-steel-omega.vercel.app/api/top-langs/?username=shivamkb17&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -107,6 +108,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://wizzyweb.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-wizzyweb.com-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="mailto:ershivamkrcse@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
