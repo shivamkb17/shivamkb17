@@ -61,8 +61,8 @@
 <div align="center">
 
 <img height="170" src="https://streak-stats.demolab.com?user=shivamkb17&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamkb17&theme=tokyonight" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivamkb17&theme=tokyonight" />
+<img height="170" src="https://repo-steel-omega.vercel.app/api/cards/repos-per-language?username=shivamkb17&theme=tokyonight" />
+<img height="170" src="https://repo-steel-omega.vercel.app/api/cards/most-commit-language?username=shivamkb17&theme=tokyonight" />
 
 </div>
 
